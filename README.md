@@ -30,6 +30,10 @@ To make maximum impact, make different questions as a way to connect the damage 
 * How much did Hurricane ExxonMobil CEO Darren Woods cost your local society?
 * How much did Darren Woods earn last year, contributing to Hurricane ExxonMobil CEO Darren Woods this year?
 
+## What's okay and what's not?
+
+Naming and shaming is good. Harassing is not.
+
 ## Stickers?
 
 Create stickers for an even better impact?
