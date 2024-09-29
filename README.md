@@ -7,7 +7,7 @@ Giving credit where credit is due. Name lists for the coming hurricanes by the n
 
 Your country is not on the list? Add a PR with your country, or [just open an issue](https://github.com/eklem/hurricane-names-by-oil-company-ceo/issues/new). Should have up to 10 biggest oil companies in your country and their CEO names. Wikipedia is a big help finding the CEOs.
 
-[List of oil producing companies](https://en.wikipedia.org/wiki/List_of_countries_by_oil_production).
+[List of oil producing countries](https://en.wikipedia.org/wiki/List_of_countries_by_oil_production).
 
 ### USA:
 
