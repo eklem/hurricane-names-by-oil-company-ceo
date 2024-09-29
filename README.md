@@ -5,7 +5,7 @@ Giving credit where credit is due. Name lists for the coming hurricanes by the n
 
 ## [your country]
 
-Your country is not on the list? Add a PR with your country, or [just open an issue](https://github.com/eklem/hurricane-names-by-oil-company-ceo/issues/new). Should have 10 biggest oil companies in your country and their CEO names. Wikipedia is a big help finding the CEOs.
+Your country is not on the list? Add a PR with your country, or [just open an issue](https://github.com/eklem/hurricane-names-by-oil-company-ceo/issues/new). Should have up to 10 biggest oil companies in your country and their CEO names. Wikipedia is a big help finding the CEOs.
 
 ### USA:
 
@@ -22,8 +22,12 @@ Your country is not on the list? Add a PR with your country, or [just open an is
 
 ### Norway:
 
-* Hurricane Equinor CEO Anders Opedal
-
+* **Hurricane Equinor CEO Anders Opedal (August 2023 aka Ekstremværet Hans)**
+* Hurricane Aker BP CEO Karl Johnny Hersvik
+* Hurricane Petoro CEO Kristin F. Kragseth
+* Hurricane Vår Energi CEO Nick Walker
+* Hurricane Wintershall Dea CEO Mario Mehren
+* Hurricane SVAL Energi CEO Halvor Engebretsen
 
 ## Usage
 
