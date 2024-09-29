@@ -3,6 +3,10 @@ Giving credit where credit is due. Name lists for the coming hurricanes by the n
 
 ## Companies
 
+## [your country]
+
+Your country is not on the list? Add a PR with your country, or [just open an issue](https://github.com/eklem/hurricane-names-by-oil-company-ceo/issues/new). Should have 10 biggest oil companies in your country and their CEO names. Wikipedia is a big help finding the CEOs.
+
 ### USA:
 
 * **Hurricane ExxonMobil CEO Darren Woods (September 2024 aka Helene)**
