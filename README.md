@@ -13,7 +13,7 @@ Your country is not on the list? Add a PR with your country, or [just open an is
 
 * Hurricane ExxonMobil CEO Darren Woods (September 2024 aka Helene)
   [killed 227 people](https://apnews.com/article/hurricane-helene-death-toll-asheville-north-carolina-34d1226bb31f79dfb2ff6827e40587fc) while [ExxonMobile CEO Darren Woods was compensated $36.9 million](https://www.reuters.com/business/energy/exxon-mobil-ceo-woods-pay-climbs-369-mln-2023-2024-04-11/) in 2023.
-* **Hurricane Chevron CEO Mike Wirth (October 2024 aka Milton)**
+* **Hurricane Chevron CEO Mike Wirth (Happening now, October 2024 aka Milton)**
   While [Chevron CEO Mike Wirth was compensated $26.5 million](https://www.reuters.com/business/energy/chevron-ceos-pay-rose-12-265-million-2023-2024-04-10/) in 2023.
 * Hurricane ConocoPhillips CEO Ryan Lance
 * Hurricane Marathon Petroleum CEO Michael J. Hennigan 
