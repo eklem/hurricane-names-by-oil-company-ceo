@@ -1,4 +1,4 @@
-# hurricane-names-by-oil-company-ceo
+# 🌀🛢️👨🏻‍🦳 Hurricane names by oil company CEO
 Giving credit where credit is due. Name lists for the coming hurricanes by the name of oil companies and their CEOs
 
 ## Companies
@@ -11,8 +11,8 @@ Your country is not on the list? Add a PR with your country, or [just open an is
 
 ### USA:
 
-* **Hurricane ExxonMobil CEO Darren Woods (September 2024 aka Helene)**
-* Hurricane Chevron CEO Mike Wirth
+* Hurricane ExxonMobil CEO Darren Woods (September 2024 aka Helene)
+* **Hurricane Chevron CEO Mike Wirth (October 2024 aka Milton)**
 * Hurricane ConocoPhillips CEO Ryan Lance
 * Hurricane Marathon Petroleum CEO Michael J. Hennigan 
 * Hurricane EOG Resources CEO Ezra Y. Yacob
