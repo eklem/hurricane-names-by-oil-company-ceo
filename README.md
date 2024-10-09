@@ -1,4 +1,4 @@
-# 🌀🛢️👨🏻‍🦳 Hurricane names by oil company CEO
+# 🌀🛢️🏢👨🏻‍🦳 Hurricane names by oil company CEO
 Giving credit where credit is due. Name lists for the coming hurricanes by the name of oil companies and their CEOs
 
 ## Companies
