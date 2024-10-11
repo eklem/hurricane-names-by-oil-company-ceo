@@ -26,8 +26,8 @@ Your country is not on the list? Add a PR with your country, or [just open an is
 
 ### Norway:
 
-* **Hurricane Equinor CEO Anders Opedal (August 2023 aka Ekstremværet Hans)**
-* Hurricane Aker BP CEO Karl Johnny Hersvik
+* Hurricane Equinor CEO Anders Opedal (August 2023 aka Ekstremværet Hans)
+* **Hurricane Aker BP CEO Karl Johnny Hersvik (Januar/Februar 2024 aka Ekstremværet Ingunn)**
 * Hurricane Petoro CEO Kristin F. Kragseth
 * Hurricane Vår Energi CEO Nick Walker
 * Hurricane Wintershall Dea CEO Mario Mehren
